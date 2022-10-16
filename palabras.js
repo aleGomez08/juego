@@ -1,0 +1,1 @@
+const words = ['OLIMPIA','Cerro','Luque','libertad','Guarani','Ameliano','Tacuary','Sol','Trinidense','Tembetary','River','Naional']
